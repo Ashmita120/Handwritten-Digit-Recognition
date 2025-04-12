@@ -26,7 +26,6 @@ The main goal is to build a machine learning model that can:
 
 ## 📁 Dataset
 
-- 📥 Dataset used: [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
 - 60,000 training images and 10,000 test images
 - Each image is 28x28 pixels in grayscale
 
